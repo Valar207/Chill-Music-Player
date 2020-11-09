@@ -3,6 +3,7 @@
 This project is about creating a music player.
 Relax while listening to Chill music
 
+![Chill-Music-Player GIF](public/musicPlaying.gif)
 
 ## Getting Started
 
