@@ -3,7 +3,7 @@
 This project is about creating a music player.
 Relax while listening to Chill music
 
-![](public/musicPlaying.gif)
+![Farmers Market Finder - Animated gif demo](public/musicPlaying.gif)
 
 ## Getting Started
 
