@@ -4,7 +4,6 @@ This project is about creating a music player.
 Relax while listening to Chill music
 
 <img src="public/musicPlaying.gif" width="250"/>
-![Chill-Music-Player GIF](public/musicPlaying.gif)
 
 ## Getting Started
 
